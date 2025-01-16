@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Gaware</h1>
-<h3 align="center">I have completed core and advance java also I have completed php and advanced php.</h3>
+<h3 align="center">I have Completed BSC(comp.sci)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitagaware&label=Profile%20views&color=0e75b6&style=flat" alt="nikitagaware" /> </p>
 
